@@ -4,18 +4,18 @@ const recip = require('./assets/portfolioImages/recipi.png');
 
 const ProjectsData = [
   {
+    name: "RECIPporcity",
     id: "recip",
     img: recip,
-    name: "RECIPporcity",
     stack: ["< RESTful API />", "< Bootstrap v5 />"],
     live: "Not yet!",
     source: "",
     description: "",
   },
   {
+    name: "Beautiful Planner",
     id: "planner",
     img: plan,
-    name: "Beautiful Planner",
     stack: ["<HTML5>", "< CSS3 />"],
     live: "Not yet!",
     source: "",
@@ -25,9 +25,9 @@ const ProjectsData = [
 
 const InprogressProjectsData = [
   {
+    name: "My Team",
     id: "team",
     img: team,
-    name: "My Team",
     stack: ["< NodeJS />"],
     live: "",
     source: "",

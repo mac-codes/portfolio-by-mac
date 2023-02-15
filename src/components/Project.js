@@ -2,7 +2,7 @@ import React from 'react'
 import { AiOutlineGithub } from 'react-icons/ai'
 import { BiLinkExternal } from 'react-icons/bi'
  
-function Project({id, image, name, stack, live, source, desc}) {
+function Project({image, name, desc, stack, live, source}) {
   return (
     <div className="">
         <div className="card mb-5" style={{maxWidth:'900px'}}>
@@ -18,10 +18,10 @@ function Project({id, image, name, stack, live, source, desc}) {
                         <p className="card-text">{stack}</p>
                             <p className="card-text d-flex gap-4">
                                 <a href={live} target="_blank" rel="noreferrer" className='link'>
-                                    Live Site <BiLinkExternal style={{color: 'hsl(205, 72%, 37%)'}}/>
+                                    Live Site <BiLinkExternal style={{color: 'hsl(203, 71%, 38%)'}}/>
                                 </a>
                                 <a href={source} target="_blank" rel="noreferrer" className='link'>
-                                    Source Code <AiOutlineGithub style={{color: 'hsl(205, 72%, 37%)'}} />
+                                    Code <AiOutlineGithub style={{color: 'hsl(203, 71%, 38%)'}} />
                                 </a>    
                             </p>
                     </div>

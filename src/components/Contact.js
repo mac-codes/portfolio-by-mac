@@ -10,27 +10,26 @@ const Contact = () => {
         e.preventDefault()
     
         emailjs
-            // service id, template id and your public key, get these by registering on EmailJs
           .sendForm('service_yse6v2a', 'template_d3i9txs', form.current, 'Dm939mnlPcJjrKRMC')
           .then(
             () => {
-              alert('Message successfully sent!')
+              alert('Message sent successfully !')
               window.location.reload(false)
             },
             () => {
-              alert('Failed to send the message, please try again')
+              alert('Failed to send the message.')
             }
           )
       }
 
   return (
     <div className="container-fluid p-5">
-      <div className="d-sm-flex align-items-center justify-content-center">
+      <div className="justify-content-center d-sm-flex align-items-center ">
         <div>
             <form ref={form} onSubmit={sendEmail}>
                 <ul style={{listStyle: 'none'}} className='p-4'>
                     <li className="m-3 shadow-sm">
-                    <input className='form-control form-class' placeholder="Name" type="text" name="name" required />
+                    <input className='form-control form-class' type="text" name="name" placeholder="Name"   required />
                     </li>
                     <li className="m-3 shadow-sm">
                     <input
@@ -44,7 +43,7 @@ const Contact = () => {
                     <li className='m-3 shadow-sm'>
                     <input
                         placeholder="Subject"
-                        className='form-control form-class'
+                        className='form-class form-control '
                         type="text"
                         name="subject"
                         required
