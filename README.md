@@ -18,6 +18,8 @@ This project was built using these technologies:
 - Lottiefiles
 - Adobe Illustrator
 
+# here is a pretty screen shot since I cant publish it 
+<img width="1438" alt="Screen Shot 2023-02-14 at 9 25 52 PM" src="https://user-images.githubusercontent.com/102085405/218919598-e85da649-05eb-43db-8983-5e7591323c43.png">
 
 ## Useful Resources
 
