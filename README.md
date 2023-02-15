@@ -4,7 +4,7 @@
 
 My personal portfolio
 
-#### Live Version: I could not figure out for the life me how to publish this even using gh pages. I had to remake a repository because I kept ruining my app and could not fix it with branches lol. will be going to office hour ❤️
+#### Live Version: I could not figure out for the life me how to publish this even using gh pages. I kept forgetting to use branches so this was absolutely brutal. will be in OO ❤️
 
 ## Built With
 
@@ -19,7 +19,6 @@ This project was built using these technologies:
 - Adobe Illustrator
 
 # here is a pretty screen shot since I cant publish it
-## lol I thought those pinks matched fml
 <img width="1438" alt="Screen Shot 2023-02-14 at 9 25 52 PM" src="https://user-images.githubusercontent.com/102085405/218919598-e85da649-05eb-43db-8983-5e7591323c43.png">
 
 ## Useful Resources
