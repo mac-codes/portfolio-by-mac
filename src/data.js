@@ -1,5 +1,5 @@
-const plan = require('./assets/portfolioImages/plan.png');
-const team = require('./assets/portfolioImages/team.png');
+const collage = require('./assets/portfolioImages/collage.png');
+//const team = require('./assets/portfolioImages/team.png');
 const recip = require('./assets/portfolioImages/recipi.png');
 
 const ProjectsData = [
@@ -9,30 +9,21 @@ const ProjectsData = [
     img: recip,
     stack: ["< RESTful API />", "< Bootstrap v5 />"],
     live: "Not yet!",
-    source: "",
+    source: "https://github.com/mac-codes/Recipes-and-Cocktails",
     description: "",
   },
   {
-    name: "Beautiful Planner",
-    id: "planner",
-    img: plan,
-    stack: ["<HTML5>", "< CSS3 />"],
-    live: "Not yet!",
-    source: "",
+    name: "Collagio",
+    id: "collage",
+    img: collage,
+    stack: ["<HTML5>", "< CSS3 />", "<MERN/>"],
+    live: "https://collagio.herokuapp.com/",
+    source: "https://github.com/alexclaytonbootcamp/TeamAwesome",
     description: "",
   }
 ];
 
 const InprogressProjectsData = [
-  {
-    name: "My Team",
-    id: "team",
-    img: team,
-    stack: ["< NodeJS />"],
-    live: "",
-    source: "",
-    description: "",
-  }
 ];
 
 const data = {
