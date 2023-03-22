@@ -2,7 +2,7 @@
   "name": "bad-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mac-codes.github.io/bad-portfolio",
+  "homepage": "https://mac-codes.github.io/portfolio-by-mac",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
