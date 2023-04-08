@@ -9,7 +9,7 @@ const Home = () => {
        <div className='d-sm-flex align-items-center justify-content-between'>
           <div className='ms-sm-5 ps-sm-5 d-flex flex-column text-center align-items-center align-items-lg-start'>
             <h1 className=''>Hello, I'm McKenna</h1>
-            <h1 className='fw-bold custom-font'>Software Engineer</h1>
+            <h1 className='fw-bold custom-font'>Software Developer</h1>
             <p className='pt-5'>FullstackDevelopment / ReactJS</p>
             <NavLink to='/projects'><button className='btn btn-primary custom-btn ps-5 pe-5 fw-bold mt-2'>My Work</button></NavLink>
           </div>
