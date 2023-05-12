@@ -30,17 +30,8 @@ const InprogressProjectsData = [
     id: "dad",
     img: stick,
     stack: ["<REACT />", "< API />"],
-    live: "",
+    live: "https://mac-codes.github.io/jokes/",
     source: "https://github.com/mac-codes/dadjokes",
-    description: "",
-  },
-  {
-    name: "Rainbow Clinic",
-    id: "rainbow",
-    img: dots,
-    stack: ["<REACT />", "< API />"],
-    live: "https://collagio.herokuapp.com/",
-    source: "https://github.com/mac-codes/med-website",
     description: "",
   }
 ];
