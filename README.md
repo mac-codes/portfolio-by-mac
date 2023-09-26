@@ -1,13 +1,9 @@
 # McKenna's Portfolio 
-idk how to update this fml
+[TO PORTFOLIO](https://mac-codes.github.io/portfolio-by-mac/#/)
+Welcome :) happy to have you on my page. please feel free to browse my work. a lot is still in progress but the process of learning has been so fun.
 ### Version 1.0
 
 My personal portfolio
-
-#### Live Version: I could not figure out for the life me how to publish this even using gh pages. I kept forgetting to use branches so this was absolutely brutal. will be in OO ❤️
-
-# here is a pretty screen shot since I cant publish it
-<img width="1438" alt="Screen Shot 2023-02-14 at 9 25 52 PM" src="https://user-images.githubusercontent.com/102085405/218919598-e85da649-05eb-43db-8983-5e7591323c43.png">
 
 ## Getting Started with Create React App
 
