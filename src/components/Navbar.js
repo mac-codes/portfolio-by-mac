@@ -3,10 +3,11 @@ import { NavLink } from 'react-router-dom'
 const Navbar = () => {
   return (
     <nav className="bg-light navbar navbar-expand-lg shadow-sm p-4">
-      <div className="container-fluid flex-column d-sm-flex  flex-lg-row  justify-content-lg-between justify-content-center">
-        
+      <div className="container-fluid flex-column d-sm-flex flex-lg-row justify-content-lg-between justify-content-center">
         <div className="navbar-brand mb-4 mb-md-0 mb-lg-0">
-          <span className="ms-2 fw-bold">mac-codes</span>
+          <NavLink to="/" className="nav-link">
+            <span className="ms-2 fw-bold" style={{ color: 'black' }}>mac-codes</span>
+          </NavLink>
         </div>
         
         <div className="">
