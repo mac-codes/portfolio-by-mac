@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio-by-mac/static/css/main.5cd65f9b.css",
-    "main.js": "/portfolio-by-mac/static/js/main.f651c330.js",
+    "main.js": "/portfolio-by-mac/static/js/main.ff5e46cd.js",
     "static/media/recipi.png": "/portfolio-by-mac/static/media/recipi.3f4152cccaebcd7d7da1.png",
     "static/media/collage.png": "/portfolio-by-mac/static/media/collage.505d3d124130614ae4cc.png",
     "static/media/resume.pdf": "/portfolio-by-mac/static/media/resume.962b4c5e77ba280cde5f.pdf",
     "static/media/stick.jpg": "/portfolio-by-mac/static/media/stick.5df0e0d8dac41e8221e0.jpg",
     "index.html": "/portfolio-by-mac/index.html",
     "main.5cd65f9b.css.map": "/portfolio-by-mac/static/css/main.5cd65f9b.css.map",
-    "main.f651c330.js.map": "/portfolio-by-mac/static/js/main.f651c330.js.map"
+    "main.ff5e46cd.js.map": "/portfolio-by-mac/static/js/main.ff5e46cd.js.map"
   },
   "entrypoints": [
     "static/css/main.5cd65f9b.css",
-    "static/js/main.f651c330.js"
+    "static/js/main.ff5e46cd.js"
   ]
 }
