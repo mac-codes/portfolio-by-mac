@@ -14,13 +14,6 @@ const Navbar = () => {
           <NavLink to='/about' className="link me-5">About Me</NavLink>
           <NavLink to='/projects' className="link">Portfolio</NavLink>
         </div>
-        
-        <div>
-          <NavLink to='/contact' className="link">
-            <button className='btn mt-5 btn-primary m-lg-0 custom-btn fw-bold'>Contact me</button>
-          </NavLink>
-        </div>
-
       </div>
   </nav>
   )

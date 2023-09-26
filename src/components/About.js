@@ -12,7 +12,7 @@ const AboutMe = () => {
       <h3 className='pt-5 pb-2 custom-color'>Languages and tools I use:</h3>
 
       <p className='lead'>
-        <img className='me-2' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" height="40" width="40" h/>
+        <img className='me-2' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" height="40" width="40" />
         <img className='m-2' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" height="40" width="40" />
         <img className='m-2' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="35" width="35" />
         <img className='m-2' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="35" width="35" />
@@ -20,8 +20,10 @@ const AboutMe = () => {
         <FaBootstrap className='m-2' style={{width:"35", height:"35", color: '#7a14f6'}}/>
       </p>
       <h4 className="pt-3 pb-3 custom-color">Currently Learning: </h4>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt='angular' height="35" width="35" />
-
+      <p className='lead'>
+      <img className='m-2' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt='chsarp' height="35" width="35"/>
+      <img className='m-2' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt='.net' height="35" width="35" />
+      </p>
     </div>
   )
 }

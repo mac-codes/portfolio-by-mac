@@ -1,7 +1,6 @@
 const collage = require('./assets/portfolioImages/collage.png');
 const stick = require('./assets/portfolioImages/stick.jpg');
 const recip = require('./assets/portfolioImages/recipi.png');
-const dots = require('./assets/portfolioImages/dots.jpeg');
 
 const ProjectsData = [
   {
@@ -29,7 +28,7 @@ const InprogressProjectsData = [
     name: "DAD jokes (name in development)",
     id: "dad",
     img: stick,
-    stack: ["<REACT />", "< API />"],
+    stack: ["< C# />", "< .NET />"],
     live: "https://mac-codes.github.io/jokes/",
     source: "https://github.com/mac-codes/dadjokes",
     description: "",
